@@ -1,3 +1,3 @@
 # Realme  
 ## Computer
-<img src="./Computer.img.png>
+<img src="./Computer.img.png" />
